@@ -1,6 +1,8 @@
 Uploading Screen_Recording_20240427_154732.mp4…# myauiz
 ![Uploading WhatsApp Image 2024-04-28 at 10.41.50 PM.jpeg…]()
 A new Flutter project.
+![WhatsApp Image 2024-04-28 at 10 41 50 PM](https://github.com/Funnzone360/SmallQuiz1/assets/74485576/26a88525-783c-47a5-b4bc-678eb03c4cee)
+![WhatsApp Image 2024-04-28 at 10 41 49 PM](https://github.com/Funnzone360/SmallQuiz1/assets/74485576/63367ccc-2de3-4766-a2a9-846f77df4e11)
 
 ## Getting Started
 
